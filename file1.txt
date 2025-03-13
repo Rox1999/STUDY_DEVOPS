@@ -1,2 +1,8 @@
 First commit
+<<<<<<< HEAD
+=======
+Feature branch changes
+>>>>>>> feature-branch
 Main branch changes
+
+A
