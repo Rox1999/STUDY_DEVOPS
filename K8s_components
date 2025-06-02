@@ -1,0 +1,8 @@
+Components of K8s control plane.
+
+Component	Role
+kube-apiserver	API gateway for all control plane interactions
+etcd	Persistent storage for all cluster state
+kube-scheduler	Assigns Pods to Nodes
+kube-controller-manager	Runs core logic for replication, health, scaling
+cloud-controller-manager	Connects Kubernetes with cloud provider infrastructure
